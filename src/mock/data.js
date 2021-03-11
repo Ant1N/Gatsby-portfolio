@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'My name is Isak Antin, i\'m a 19 year old front-end developer student based in Sweden.',
   paragraphTwo: 'I like to create functional and innovative products that helps me grow as a developer.',
   paragraphThree: 'These days, i\'m teaching myself new ways of developing applications to become a better developer.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
