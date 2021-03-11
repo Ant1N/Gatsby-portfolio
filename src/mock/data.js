@@ -12,15 +12,15 @@ export const heroData = {
   title: 'Hi, my name is',
   name: 'Isak',
   subtitle: 'I\'m a Front End Developer.',
-  cta: '',
+  cta: 'About me',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'My name is Isak Antin, i\'m a 19 year old front-end developer student based in Sweden.',
-  paragraphTwo: 'I like to create beautiful and innovative products that helps me grow as a developer.',
-  paragraphThree: 'These days, i\'m teaching myself new ways of developing applications that makes life simpler for others',
+  paragraphTwo: 'I like to create functional and innovative products that helps me grow as a developer.',
+  paragraphThree: 'These days, i\'m teaching myself new ways of developing applications to become a better developer.',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
@@ -43,7 +43,7 @@ export const projectsData = [
     title: 'Scorekeeper',
     info: 'A simple scorekeeper using JavaScript',
     info2: 'In this project i wanted to make the code compact yet functional. I\'m happy with how the \
-    project turned out. In this project, i learned a lot about for loops and if-statements.',
+    project turned out. In this project, i learned a bit about for loops and if-statements.',
     url: 'https://ant1n.github.io/Scorekeeper/',
     repo: 'https://github.com/Ant1N/Scorekeeper', // if no repo, the button will not show up
   },
