@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'My name is Isak Antin, i\'m a 19 year old front-end developer student based in Sweden.',
   paragraphTwo: 'I like to create functional and innovative products that helps me grow as a developer.',
-  paragraphThree: 'These days, i\'m teaching myself new ways of developing applications to become a better developer.',
+  paragraphThree: 'These days, i\'m teaching myself new ways of developing applications and learning about algorithms.',
   resume: '', // if no resume, the button will not show up
 };
 
@@ -31,8 +31,8 @@ export const projectsData = [
     img: 'MuskGoToMars.png',
     title: 'Musk Go To Mars',
     info: 'Musk Go To Mars is a simple game made using JavaScript.',
-    info2: 'The game mainly taught me how JS canvas works. But in the project i also had to learn how to\
-    implement sound and spritesheets in JavaScript projects. One of the big problems i encounterd was with\
+    info2: 'The game mainly taught me how to use JS canvas. But in the project i also had to learn how to\
+    implement sound and spritesheets in JavaScript projects. One of the big problems i encountered was with\
     crash detection.',
     url: 'https://axelpahne.github.io/side-scrollers/',
     repo: 'https://github.com/axelpahne/side-scrollers', // if no repo, the button will not show up
@@ -53,8 +53,8 @@ export const projectsData = [
     title: 'Visited Cities',
     info: 'An app to display city information',
     info2: 'In this project i made an application which shows weather and general information about a city using APIs.\
-    You can also select what cities you\'ve visited and see the total amount of inhabitans in the selected cities.',
-    info3: 'In this project i learned a lot about APIs, JSON and data structures in general.',
+    You can also select what cities you\'ve visited and see the total amount of inhabitans in the selected cities.\n\n\
+    In this project i learned a lot about APIs, JSON and data structures in general.',
     url: 'https://ant1n.github.io/Visited-Cities/',
     repo: 'https://github.com/Ant1N/Scorekeeper', // if no repo, the button will not show up
   },
