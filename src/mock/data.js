@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'My name is Isak Antin, i\'m a 19 year old front-end developer student based in Sweden.',
   paragraphTwo: 'I like to create functional and innovative products that helps me grow as a developer.',
-  paragraphThree: 'I\'m always down for a challenge, so contact me if you have any. .',
+  paragraphThree: 'I\'m always down for a challenge, so contact me if you have any.',
   resume: '', // if no resume, the button will not show up
 };
 
