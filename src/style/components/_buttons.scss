@@ -23,7 +23,7 @@
 
 /* Hero Style */
 .cta-btn--hero {
-  background-image: linear-gradient(135deg, $gradient-dark 0%, $gradient-light 100%);
+  background-image: linear-gradient(135deg, $gradient-dark 0%, $gradient-dark 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   border-image-slice: 1;
